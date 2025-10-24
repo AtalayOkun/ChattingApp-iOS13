@@ -28,6 +28,13 @@ Package.resolved
 
 
 Flash Chat iOS13/GoogleService-Info.plist
+# Firebase config dosyası
+GoogleService-Info.plist
+*/GoogleService-Info.plist
+**/GoogleService-Info.plist
+
+# Pods
+Pods/
 
 
 *.log
